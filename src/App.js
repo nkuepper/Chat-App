@@ -30,7 +30,7 @@ function App() {
     <div className="App">
       <header>
       <h1><span role='img' aria-label='sendEmoji'>DomainChat🚩</span></h1>
-        <signOut />
+        <SignOut />
       </header>
 
       <section>
